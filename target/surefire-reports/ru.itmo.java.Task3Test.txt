@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: ru.itmo.java.Task3Test
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec <<< FAILURE!
-test_isPalindrome(ru.itmo.java.Task3Test)  Time elapsed: 0.005 sec  <<< FAILURE!
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.331 sec <<< FAILURE!
+test_isPalindrome(ru.itmo.java.Task3Test)  Time elapsed: 0.022 sec  <<< FAILURE!
 java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.assertTrue(Assert.java:41)
